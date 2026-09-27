@@ -19,4 +19,4 @@ This extension does **not** collect, store, sell, or transmit personal data to a
 
 ## Contact
 
-For support, use the [GitHub issue tracker](https://github.com/Ropaxyz/Bulk-Cancel-for-Amazon-Subscribe-Save/issues).
+For support, use the [GitHub issue tracker](https://github.com/Ropaxyz/SubscribeSaveBulkCancelChrome/issues).
